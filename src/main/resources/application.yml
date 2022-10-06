@@ -1,0 +1,11 @@
+server:
+  port: 9090
+
+appConfig:
+  trapAddress: 0.0.0.0/162
+  rabbitHost: localhost
+  rabbitUsername: rabbitUser
+  rabbitPassword: rabbitPassword
+  rabbitVirtualHost: /
+  snmpExchange: snmp_exchange
+  snmpRoutingKey: snmp_routing_key
