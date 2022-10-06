@@ -14,7 +14,7 @@ This project created on a spring boot, and you can simply run it like other spri
 
 - ### rabbitHost
   Set RabbitMQ host address in this properties
-  
+
 - ### rabbitUsername
   Set RabbitMQ username in this properties
 
