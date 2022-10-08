@@ -1,4 +1,4 @@
-# SNMPListener
+# SNMP Listener
 Listen SNMP traps messages and send to rabbitMQ broker by using java and spring boot.
 
 ## What is SNMP Traps
